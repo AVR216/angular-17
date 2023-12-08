@@ -1,3 +1,10 @@
+# DESCRIPCIÓN
+Proyecto introductorio a Angular 17 y sus nuevas caracteristicas
+-  Nueva sintaxis
+-  difer
+-  Input
+-  Output
+  
 # Angular17App
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.6.
